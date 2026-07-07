@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OrganicWasteItem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OrganicWasteItem\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=userID\ userName\ itemName\ weight
+comment1.target=OrganicWasteItem(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ determinePrice()
+comment3.params=
+comment3.target=java.lang.String\ getCategory()
+numComments=4
